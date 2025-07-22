@@ -1,0 +1,58 @@
+{
+  "name": "TestScene",
+  "nodes": [
+    {
+      "name": null,
+      "translation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "children": [],
+      "mesh": null,
+      "camera": null,
+      "script": null,
+      "model": 0
+    }
+  ],
+  "models": [
+    {
+      "uri": "TestModel"
+    }
+  ],
+  "root": {
+    "name": null,
+    "translation": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "rotation": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "children": [],
+    "mesh": null,
+    "camera": null,
+    "script": null,
+    "model": null
+  }
+}
